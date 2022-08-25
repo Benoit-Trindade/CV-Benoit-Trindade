@@ -1,0 +1,22 @@
+#blocPage
+{
+	margin-right: 15px;
+	margin-left: 15px;
+	margin-top: 15px;
+	height: 800px;
+	display: flex;
+}
+
+#partieGauche
+{
+	width: 25%;
+	background-color: deepskyblue;
+	border: 1px black solid;
+
+}
+#partieDroite
+{
+	width: 75%;
+	background-color: whitesmoke;
+	border: 1px black solid;
+}
