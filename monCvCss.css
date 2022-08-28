@@ -3,14 +3,13 @@
 	margin-right: 15px;
 	margin-left: 15px;
 	margin-top: 15px;
-	height: 800px;
 	display: flex;
 }
 
 #partieGauche
 {
 	width: 25%;
-	background-color: deepskyblue;
+	background-color: #58b8db;
 	border: 1px black solid;
 
 }
@@ -19,4 +18,25 @@
 	width: 75%;
 	background-color: whitesmoke;
 	border: 1px black solid;
+}
+				
+#sectionPhoto
+{
+
+		margin: 20px;
+
+
+
+}
+#sectionPhoto img
+{
+	max-width: 100%;
+    max-height: 100%;
+    display: block;
+    border:  3px #458faa double;
+    border-radius: 10% 10% 50% 10%;
+}
+section
+{
+	
 }
